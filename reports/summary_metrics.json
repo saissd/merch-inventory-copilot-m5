@@ -1,0 +1,19 @@
+{
+  "forecast_valid_rmse": 2.0124599933624268,
+  "forecast_valid_wape": 0.7561023831367493,
+  "inventory_before": {
+    "stockout_units": 58854.63460379839,
+    "avg_holding_units": 5.304625016979696,
+    "holding_cost": 4455.885014262944,
+    "stockout_cost": 29427.317301899195,
+    "total_cost": 33883.20231616214
+  },
+  "inventory_after": {
+    "stockout_units": 4337.810457319021,
+    "avg_holding_units": 24.207329772691242,
+    "holding_cost": 20334.157009060644,
+    "stockout_cost": 2168.9052286595106,
+    "total_cost": 22503.062237720154
+  },
+  "pricing_recommendations_rows": 500
+}
