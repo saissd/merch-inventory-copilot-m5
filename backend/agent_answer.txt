@@ -1,0 +1,3 @@
+﻿PLAN:
+1.  Implement recommended reorder points and safety stock levels for high-demand items in CA_1 to proactively prevent stockouts.
+2.  Monitor

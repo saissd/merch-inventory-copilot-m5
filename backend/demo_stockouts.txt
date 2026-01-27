@@ -1,0 +1,15 @@
+﻿KEY METRICS
+forecast_valid_wape: 0.7561023831367493
+forecast_valid_rmse: 2.0124599933624268
+stockout_units (before -> after): 58854.63460379839 -> 4337.810457319021
+total_cost (before -> after): 33883.20231616214 -> 22503.062237720154
+
+TOP 10 ACTIONS (TABLE)
+| rank | item_id | avg_pred | reorder_point | safety_stock |
+|---|---|---|---|---|
+| 1 | FOODS_3_252 | 36.434334 | 257.22488 | 2.1845305 |
+| 2 | FOODS_3_491 | 13.025751 | 93.381874 | 2.2016068 |
+| 3 | HOUSEHOLD_1_096 | 10.72189 | 77.01786 | 1.9646274 |
+| 4 | FOODS_3_233 | 7.366351 | 53.52543 | 1.960974 |
+| 5 | HOUSEHOLD_1_535 | 7.080804 | 51.320713 | 1.7550868 |
+| 6 | FOODS_3_652 | 6.826955 | 49
