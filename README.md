@@ -1,4 +1,5 @@
 # Merch & Inventory Copilot (M5 Demo)
+demo: https://github.com/saissd/merch-inventory-copilot-m5/blob/main/demo.mp4
 
 A **Nordstrom-style merchandising + inventory ML copilot** built on the **Kaggle M5 Forecasting** dataset.  
 It combines **demand forecasting**, **inventory recommendations**, **pricing recommendations**, and a **ChatGPT-like copilot UI (with voice input)** into a recruiter-friendly demo that runs locally.
